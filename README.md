@@ -1,4 +1,4 @@
-🚀 Welcome to our MSBA SMA Assignment #1 Repository! 📊
+🚀 Social Media Analytics 📊
 In this assignment, we explored Social Media Analytics focusing on influencer detection, quantifying influence, and leveraging influencers. Here's what you'll find in this repository:
 
 🔍 Part I - Predicting Influencers:
